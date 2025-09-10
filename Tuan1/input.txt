@@ -1,0 +1,3 @@
+id:2; name:gege; weigh:38; heigh:99;litmit_fly: 9
+id:3; name:gege; weigh:12; heigh:34;litmit_fly: 6
+id:1; name:gege; weigh:7; heigh:43;litmit_fly: 3

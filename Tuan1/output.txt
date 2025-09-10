@@ -1,0 +1,8 @@
+hinh vuong canh 3 co chu vi: 12.00 va dien tich: 9.00
+hinh vuong canh 4 co chu vi: 16.00 va dien tich: 16.00
+hinh vuong canh 5 co chu vi: 20.00 va dien tich: 25.00
+hinh vuong canh 7 co chu vi: 28.00 va dien tich: 49.00
+id:2; name:gege; weigh:38; heigh:99;so chan: 9
+id:3; name:gege; weigh:12; heigh:34;so chan: 6
+id:1; name:gege; weigh:7; heigh:43;so chan: 3
+
